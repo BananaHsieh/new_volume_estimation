@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240604-1236-Experimental"
+	Name="spie-Precision-5540"
+	Generator="ctest-3.10.2"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="7.5.0"
+	OSName="Linux"
+	Hostname="spie-Precision-5540"
+	OSRelease="5.4.0-150-generic"
+	OSVersion="#167~18.04.1-Ubuntu SMP Wed May 24 00:51:42 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15643"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4345.57"
+	>
+	<Testing>
+		<StartDateTime>Jun 04 20:36 CST</StartDateTime>
+		<StartTestTime>1717504567</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 04 20:36 CST</EndDateTime>
+		<EndTestTime>1717504567</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

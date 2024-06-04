@@ -1,0 +1,8 @@
+prefix=/home/spie/catkin_ws/src/new_volume_estimation/build/devel
+
+Name: new_volume_estimation
+Description: Description of new_volume_estimation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

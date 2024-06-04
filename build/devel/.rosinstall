@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/spie/catkin_ws/src/new_volume_estimation/build/devel/setup.sh
